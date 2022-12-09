@@ -1,4 +1,4 @@
-## A Predictive Analysis of Previous Sales Report to Inform the Marketing Strategy FY2023
+## A Predictive Analysis of Sales Report to Inform the Marketing Strategy FY2023
 This is a predictive analysis of Mays Limited sales report FY 2019 - 2020 to inform year 2023 marketing strategy.
 
 The analysis is done using Python, SQL and Tableau.
