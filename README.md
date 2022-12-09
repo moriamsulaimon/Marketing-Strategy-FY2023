@@ -6,7 +6,7 @@ The analysis is done using Python, SQL and Tableau.
 ### Python Libraries
 The libraries used on this project include:
 - Pandas
-- Geopy
-- Deep Translator
+- Numpy
+- XGBOOST
 
 ### Key Insights
