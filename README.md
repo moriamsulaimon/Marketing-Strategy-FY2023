@@ -26,4 +26,4 @@ The libraries used on this project include:
 ### Data Visualization
 The data visualization is designed using Tableau.
 
-View [Interactive Dashboard](https://public.tableau.com/views/SalesPerfromanceAnalysis_16709202250510/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+View [Interactive Dashboard](https://public.tableau.com/views/SalesPerfromanceAnalysis_16709202250510/Mays?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
