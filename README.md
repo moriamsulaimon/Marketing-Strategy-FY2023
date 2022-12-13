@@ -14,7 +14,7 @@ The libraries used on this project include:
 
 ### Key Insights
 - The forecast analysis predicted the next one year sales pattern similar to the previous years. The sales pattern maintained an increase in sales over the year with the highest sales happening in November and December.
- 
+ ![](images\FutureSalesPrediction.png)
 - 
 ### Data Visualization
 The data visualization is designed using Tableau.
