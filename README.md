@@ -19,6 +19,7 @@ The libraries used on this project include:
  
 - Marketing efforts should be focused on top profitable states such as California, New York and others to achieve a higher marketing ROI.
 - Other modes of shipping such as First Class and Same Day shipping modes should be amplified to avoid delayed shipping as other modes such as Standard Class and Second Class recoreded over 39% delayed shipping. Going forward, the root cause of delayed shipping should be investigated to find a lasting solution.
+- As predicted, sales is expected to pick up duirn the holiday season, it would be recommended that we leverage on this holiday period to reach out to potential customers. Different marekting tactics such as disount sales, referals, content marketing, Google ads, influencer marketing and so on should be employed to reach potential and exisiting customers.
 
 ### Data Visualization
 The data visualization is designed using Tableau.
