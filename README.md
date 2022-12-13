@@ -16,9 +16,9 @@ The libraries used on this project include:
 - The forecast analysis predicted the next one year sales pattern similar to the previous years. The sales pattern maintained an increase in sales over the year with the highest sales happening in November and December.
  
  ![FutureSalesPrediction](https://user-images.githubusercontent.com/113240043/207306559-d18221d3-41bf-4116-ad59-07595d196158.png)
+ 
 - Marketing efforts should be focused on top profitable states such as California, New York and others to achieve a higher marketing ROI.
-- 
-
+- Other modes of shipping such as First Class and Same Day shipping modes should be amplified to avoid delayed shipping as other modes such as Standard Class and Second Class recoreded over 39% delayed shipping. Going forward, the root cause of delayed shipping should be investigated to find a lasting solution.
 
 ### Data Visualization
 The data visualization is designed using Tableau.
