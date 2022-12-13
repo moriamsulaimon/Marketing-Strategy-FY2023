@@ -1,7 +1,5 @@
 ## A Predictive Analysis of Sales Report to Inform the Marketing Strategy FY2023
-This is a predictive analysis of Mays Limited sales performance FY 2019 - 2020 to inform the year 2023 marketing strategy.
-
-The analysis is done using Python, SQL and Tableau.
+This is a predictive analysis of Mays Limited sales performance FY 2019 - 2020 to inform the year 2023 marketing strategy using Python, SQL and Tableau.
 
 ### Python Libraries
 The libraries used in this project include:
