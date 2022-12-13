@@ -10,7 +10,7 @@ The libraries used in this project include:
 - Sklearn
 - Xgboost
 
-### Key Insights
+### Key Marketing Insights
 - The forecast analysis predicted the next one-year sales pattern similar to the previous years. The sales pattern maintained an increase in sales over the year with the highest sales happening in November and December.
  
  ![FutureSalesPrediction](https://user-images.githubusercontent.com/113240043/207306559-d18221d3-41bf-4116-ad59-07595d196158.png)
