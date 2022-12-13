@@ -19,7 +19,7 @@ The libraries used on this project include:
  
 - Marketing efforts should be focused on top profitable states such as California, New York and others to achieve a higher marketing ROI.
 - Other modes of shipping such as First Class and Same Day shipping modes should be amplified to avoid delayed shipping as other modes such as Standard Class and Second Class recoreded over 39% delayed shipping. Going forward, the root cause of delayed shipping should be investigated to find a lasting solution.
-- The best selling products are technology product with the highest sales and profits. 
+- The best selling products are technology product with the highest sales and profits marekting efforts should be amplified for this category. In addition, further analysis should be carried out to determine why the products are performing better compared to the others. Could it be product-target audience fit? This should be investgiated further. 
 - As predicted, sales is expected to pick up duirn the holiday season, it would be recommended that we leverage on this holiday period to reach out to potential customers. Different marekting tactics such as disount sales, referals, content marketing, Google ads, influencer marketing and so on should be employed to reach potential and exisiting customers.
 - To increase sales during the months/days predicted to witness low sales, we can employ different marketing tactics at interval and seasonally themed marketing to reach customers and pump up the sales within this period and all year long. 
 
